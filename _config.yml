@@ -1,21 +1,21 @@
 theme: jekyll-theme-hacker
 title: Project Insomnia's Temporary Home Page
 description: Project Insomnia is a group that does things. 
-# Hi
-## Hi two
-### Hi three
+title: # Hi
+title: ## Hi two
+title: ### Hi three
 
--Bob
--Was here
+title: -Bob
+title: -Was here
 
-1. Ethan
-2. Was here
+title: 1. Ethan
+title: 2. Was here
 
-**I wasn't** 
+title: **I wasn't** 
 
-_Neither was I_
+title: _Neither was I_
 
-`this is a weird thing`
+title: `this is a weird thing`
 
-An origin:
-[https://valleyhackathon.com/RulesandCodeofConduct](url)
+title: An origin:
+title: [https://valleyhackathon.com/RulesandCodeofConduct](url)
